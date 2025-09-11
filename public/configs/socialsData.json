@@ -1,0 +1,57 @@
+[
+  {
+    "pos": { "x": 300, "y": 250 },
+    "name": "GitHub",
+    "description": "Dive into the source code of my projects, check out my coding style, and track my activity and contributions.",
+    "link": "https://github.com/OmKadane",
+    "logoData": { 
+      "name": "github-logo", 
+      "width": 228.6, 
+      "height": 179.5 
+    }
+  },
+  {
+    "pos": { "x": 500, "y": 250 },
+    "name": "Linkedin",
+    "description": "Connect with me professionally. My LinkedIn provides a comprehensive overview of my work history, skills, and education.",
+    "link": "https://linkedin.com/in/omkadanedev",
+    "logoData": {
+      "name": "linkedin-logo",
+      "width": 140,
+      "height": 128
+    }
+  },
+  {
+    "pos": { "x": 700, "y": 250 },
+    "name": "Facebook",
+    "description": "Another way to connect on a personal basis. I primarily use this platform to follow topics and communities I'm interested in.",
+    "link": "https://www.facebook.com/profile.php?id=100066720681157",
+    "logoData": {
+      "name": "facebook-logo",
+      "width": 138,
+      "height": 138
+    }
+  },
+  {
+    "pos": { "x": 900, "y": 250 },
+    "name": "X",
+    "description": "See what I'm reading and who I'm following. I use X to keep a pulse on the tech world and influential voices in the industry.",
+    "link": "https://x.com/KadaneOm",
+    "logoData": {
+      "name": "x-logo",
+      "width": 128,
+      "height": 128
+    }
+  },
+  {
+    "pos": { "x": 1100, "y": 250 },
+    "name": "HackerRank",
+    "description": "A showcase of my problem-solving abilities. View my badges and proficiency in algorithms and data structures.",
+    "link": "https://hackerrank.com/profile/omkadane5",
+    "logoData": {
+      "name": "hackerrank-logo",
+      "width": 190,
+      "height": 179.5
+    }
+  }
+]

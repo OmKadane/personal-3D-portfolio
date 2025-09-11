@@ -1,0 +1,86 @@
+[
+  {
+    "pos": { "x": 0, "y": 350 },
+    "thumbnail": "project1",
+    "data": {
+      "title": "Flappy Bird JavaScript Game",
+      "links": [
+        {
+          "id": 0,
+          "name": "Live Demo",
+          "link": "https://flappy-javascript.netlify.app/"
+        }
+      ]
+    }
+  },
+  {
+    "pos": { "x": 0, "y": 840 },
+    "thumbnail": "project2",
+    "data": {
+      "title": "Hand Gesture Dino Game",
+      "links": [
+        {
+          "id": 0,
+          "name": "Source Code",
+          "link": "https://github.com/OmKadane/Hand-Gesture-Dino-Game"
+        }
+      ]
+    }
+  },
+  {
+    "pos": { "x": 0, "y": 1320 },
+    "thumbnail": "project3",
+    "data": {
+      "title": "Rainbow QR Code Generator",
+      "links": [
+        {
+          "id": 0,
+          "name": "Live Demo",
+          "link": "https://rainbow-qr-code.onrender.com"
+        }
+      ]
+    }
+  },
+  {
+    "pos": { "x": 0, "y": 1800 },
+    "thumbnail": "project4",
+    "data": {
+      "title": "BlackJack Card Clash Battle",
+      "links": [
+        {
+          "id": 0,
+          "name": "Source Code",
+          "link": "https://github.com/OmKadane/BlackJack-CardClashBattle"
+        }
+      ]
+    }
+  },
+  {
+    "pos": { "x": 0, "y": 2280 },
+    "thumbnail": "project5",
+    "data": {
+      "title": "Advanced Online Quiz System",
+      "links": [
+        {
+          "id": 0,
+          "name": "Source Code",
+          "link": "https://github.com/OmKadane/Advanced-Online-Quiz-System"
+        }
+      ]
+    }
+  },
+  {
+    "pos": { "x": 0, "y": 2760 },
+    "thumbnail": "allprojects",
+    "data": {
+      "title": "All Projects",
+      "links": [
+        {
+          "id": 0,
+          "name": "View All",
+          "link": "https://github.com/OmKadane?tab=repositories"
+        }
+      ]
+    }
+  }
+]
