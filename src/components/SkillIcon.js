@@ -2,11 +2,18 @@ import makeIcon from "../components/Icon";
 import { opacityTrickleDown } from "../utils";
 
 export default function makeSkillIcon(k, parent, posVec2, imageData, subtitle) {
+  // Force consistent box so rows/columns line up perfectly
+  const fixedImageData = {
+    ...imageData,
+    width: 128,
+    height: 128,
+  };
+
   const [icon, subtitleText] = makeIcon(
     k,
     parent,
     posVec2,
-    imageData,
+    fixedImageData,
     subtitle
   );
 

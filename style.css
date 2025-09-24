@@ -17,8 +17,8 @@
   src: url(/fonts/IBMPlexSans-Regular.ttf);
 }
 
-::root {
-  font-family: "ibm-bold";
+:root {
+  font-family: "ibm-regular";
   font-size: 1em;
   --color1: #272946;
   --color2: #aaea6c;
@@ -123,8 +123,8 @@ p {
   color: #ffffff;
   top: 3vh;
   left: 5vw;
-  opacity: 0.4;
-  font-size: 1.2rem;
+  opacity: 0.5;
+  font-size: 1.4rem;
   max-width: 40vw;
   user-select: none;
   font-family: "ibm-bold";

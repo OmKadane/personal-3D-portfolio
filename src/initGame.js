@@ -123,7 +123,7 @@ export default async function initGame() {
       const container = parent.add([k.pos(-805, -700), k.opacity(0)]);
 
       container.add([
-        k.text(generalData.header.title, { font: "ibm-bold", size: 88 }),
+        k.text(generalData.header.title, { font: "ibm-regular", size: 88 }),
         k.color(k.Color.fromHex(PALETTE.color1)),
         k.pos(375, 0),
         k.opacity(0),
@@ -131,7 +131,7 @@ export default async function initGame() {
 
       container.add([
         k.text(generalData.header.subtitle, {
-          font: "ibm-bold",
+          font: "ibm-regular",
           size: 48,
         }),
         k.color(k.Color.fromHex(PALETTE.color1)),

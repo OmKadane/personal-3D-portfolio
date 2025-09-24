@@ -2,181 +2,101 @@
   {
     "pos": { "x": -425, "y": -100 },
     "name": "JavaScript",
-    "logoData": {
-      "name": "javascript-logo",
-      "width": 128,
-      "height": 128
-    }
+    "logoData": { "name": "javascript-logo", "width": 128, "height": 128 }
   },
   {
     "pos": { "x": -275, "y": -100 },
     "name": "React",
-    "logoData": {
-      "name": "react-logo",
-      "width": 148,
-      "height": 128
-    }
+    "logoData": { "name": "react-logo", "width": 128, "height": 128 }
   },
   {
     "pos": { "x": -125, "y": -100 },
     "name": "HTML",
-    "logoData": {
-      "name": "html-logo",
-      "width": 128,
-      "height": 128
-    }
+    "logoData": { "name": "html-logo", "width": 128, "height": 128 }
   },
   {
     "pos": { "x": 25, "y": -100 },
     "name": "CSS",
-    "logoData": {
-      "name": "css-logo",
-      "width": 128,
-      "height": 128
-    }
+    "logoData": { "name": "css-logo", "width": 128, "height": 128 }
   },
   {
-    "pos": { "x": -425, "y": 35 },
+    "pos": { "x": -425, "y": 65 },
     "name": "Tailwind",
-    "logoData": {
-      "name": "tailwind-logo",
-      "width": 140,
-      "height": 128
-    }
+    "logoData": { "name": "tailwind-logo", "width": 128, "height": 128 }
   },
   {
-    "pos": { "x": -275, "y": 50 },
+    "pos": { "x": -275, "y": 65 },
     "name": "Python",
-    "logoData": {
-      "name": "python-logo",
-      "width": 128,
-      "height": 128
-    }
+    "logoData": { "name": "python-logo", "width": 128, "height": 128 }
   },
   {
-    "pos": { "x": -125, "y": 50 },
+    "pos": { "x": -125, "y": 65 },
     "name": "C",
-    "logoData": {
-      "name": "c-logo",
-      "width": 128,
-      "height": 128
-    }
+    "logoData": { "name": "c-logo", "width": 128, "height": 128 }
   },
   {
-    "pos": { "x": 25, "y": 50 },
+    "pos": { "x": 25, "y": 65 },
     "name": "C++",
-    "logoData": {
-      "name": "c++-logo",
-      "width": 128,
-      "height": 128
-    }
+    "logoData": { "name": "c++-logo", "width": 128, "height": 128 }
   },
   {
-    "pos": { "x": -425, "y": 200 },
+    "pos": { "x": -425, "y": 230 },
     "name": "PostgreSQL",
-    "logoData": {
-      "name": "postgres-logo",
-      "width": 128,
-      "height": 128
-    }
+    "logoData": { "name": "postgres-logo", "width": 128, "height": 128 }
   },
   {
-    "pos": { "x": -275, "y": 200 },
+    "pos": { "x": -275, "y": 230 },
     "name": "Django",
-    "logoData": {
-      "name": "django-logo",
-      "width": 128,
-      "height": 128
-    }
+    "logoData": { "name": "django-logo", "width": 128, "height": 128 }
   },
   {
-    "pos": { "x": -125, "y": 200 },
+    "pos": { "x": -125, "y": 230 },
     "name": "Flask",
-    "logoData": {
-      "name": "flask-logo",
-      "width": 128,
-      "height": 128
-    }
+    "logoData": { "name": "flask-logo", "width": 128, "height": 128 }
   },
   {
-    "pos": { "x": 25, "y": 200 },
+    "pos": { "x": 25, "y": 230 },
     "name": "MySQL",
-    "logoData": {
-      "name": "mysql-logo",
-      "width": 128,
-      "height": 128
-    }
+    "logoData": { "name": "mysql-logo", "width": 128, "height": 128 }
   },
   {
-    "pos": { "x": -425, "y": 350 },
+    "pos": { "x": -425, "y": 395 },
     "name": "SQLite",
-    "logoData": {
-      "name": "sqlite-logo",
-      "width": 128,
-      "height": 128
-    }
+    "logoData": { "name": "sqlite-logo", "width": 128, "height": 128 }
   },
   {
-    "pos": { "x": -275, "y": 350 },
+    "pos": { "x": -275, "y": 395 },
     "name": "Bash",
-    "logoData": {
-      "name": "bashscript-logo",
-      "width": 128,
-      "height": 128
-    }
+    "logoData": { "name": "bashscript-logo", "width": 128, "height": 128 }
   },
   {
-    "pos": { "x": -125, "y": 350 },
+    "pos": { "x": -125, "y": 395 },
     "name": "PowerShell",
-    "logoData": {
-      "name": "powershell-logo",
-      "width": 128,
-      "height": 128
-    }
+    "logoData": { "name": "powershell-logo", "width": 128, "height": 128 }
   },
   {
-    "pos": { "x": 25, "y": 350 },
+    "pos": { "x": 25, "y": 395 },
     "name": "AWS",
-    "logoData": {
-      "name": "aws-logo",
-      "width": 128,
-      "height": 128
-    }
+    "logoData": { "name": "aws-logo", "width": 128, "height": 128 }
   },
   {
-    "pos": { "x": -425, "y": 500 },
+    "pos": { "x": -425, "y": 560 },
     "name": "GCP",
-    "logoData": {
-      "name": "gcp-logo",
-      "width": 128,
-      "height": 128
-    }
+    "logoData": { "name": "gcp-logo", "width": 128, "height": 128 }
   },
   {
-    "pos": { "x": -275, "y": 500 },
+    "pos": { "x": -275, "y": 560 },
     "name": "Git",
-    "logoData": {
-      "name": "git-logo",
-      "width": 128,
-      "height": 128
-    }
+    "logoData": { "name": "git-logo", "width": 128, "height": 128 }
   },
   {
-    "pos": { "x": -125, "y": 485 },
+    "pos": { "x": -125, "y": 560 },
     "name": "Render",
-    "logoData": {
-      "name": "render-logo",
-      "width": 148,
-      "height": 128
-    }
+    "logoData": { "name": "render-logo", "width": 128, "height": 128 }
   },
   {
-    "pos": { "x": 25, "y": 485 },
+    "pos": { "x": 25, "y": 560 },
     "name": "Vercel",
-    "logoData": {
-      "name": "vercel-logo",
-      "width": 128,
-      "height": 128
-    }
+    "logoData": { "name": "vercel-logo", "width": 128, "height": 128 }
   }
 ]

@@ -29,7 +29,7 @@ export default function makeProjectCard(k, parent, posVec2, data, thumbnail) {
 
   const cardTitle = card.add([
     k.text(data.title, {
-      font: "ibm-bold",
+      font: "ibm-regular",
       size: 32,
       width: 600,
       lineSpacing: 12,
